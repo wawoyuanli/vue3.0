@@ -1,0 +1,21 @@
+{
+  "name": "vue3.0",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "vite": "^2.8.0"
+  },
+  "description": "此项目内容 Vue2 升级 Vue3 项目升级评估标准 CompositionAPI 与组件库 由Vue-cli 转向 Vite",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC"
+}
